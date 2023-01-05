@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 const Selection=(applyColor)=>{
-    const {nextBackground}=applyColor;
+   
     const [a,seta]=useState({background:''});
  
 
